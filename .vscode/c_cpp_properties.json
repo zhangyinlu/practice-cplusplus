@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "name": "wsl",
+            "name": "Linux(WSL)",
             "includePath": [
                 "${workspaceFolder}/**"
             ],
