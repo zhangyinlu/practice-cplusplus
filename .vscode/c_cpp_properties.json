@@ -3,8 +3,7 @@
         {
             "name": "Linux(WSL)",
             "includePath": [
-                "${workspaceFolder}/**",
-                "${workspaceFolder}/include/**"
+                "${workspaceFolder}/**"
             ],
             "defines": [
                 "_DEBUG",
